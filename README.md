@@ -10,3 +10,5 @@ This list is not intended to be calculating or maudlin; I think that preparing f
 There are plenty of resources online about personal questions to ask a loved one prior to death, to capture their personal history. Do consider that. But this list is not about that -- it is about practical considerations.
 
 I hope this is helpful to people in times of crisis, and I welcome suggestions or corrections.
+
+This checklist is dedicated to my father, Robert Meeker, who loved checklists (a quality I inherited from him), and was generally awesome (a quaility I could only hope in my dreams to match). I used this checklist as a way to channel my energies after his passing.
