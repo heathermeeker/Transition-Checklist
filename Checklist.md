@@ -35,7 +35,7 @@ Make sure you know your loved one’s:
 ## Locate Documents. 
 Find any documents, paper or electronic, such as will and trust documents, life insurance policies, or business records. Be sure beneficiaries are correct on life insurance. Also locate personal papers, such as letters, birth certificate, marriage certificate, passport, driver’s license or other IDs, armed service discharge papers, which you may want to keep or give to family members. 
 
-## Medical POA 
+## Medical POA. 
 (AARP is a good source for state-specific forms at https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Even if your loved one already has a POA, a recent one, taking into account your loved one’s immediate medical condition, is helpful to avoid misunderstandings. Detailed instructions are best.
 
 ## Personal possessions. 
@@ -80,7 +80,8 @@ Write the obituary and place it with your selected publication. Publications usu
 ## Disposition of estate. 
 If you are the executor of a trust, or simply the one in the family that manages practical or financial affairs, you will need to go through this process. It may involve probate before a court. Overall, it is the process of transferring the decedent’s assets to heirs or other recipients.
 
-## Shut down online or other subscriptions. Cancel any recurring payments. You should check credit card statements to be sure you get them all, so this process may take a month or two. Most accounts can be closed without a death certificate. A few will require it.
+## Shut down online or other subscriptions. 
+Cancel any recurring payments. You should check credit card statements to be sure you get them all, so this process may take a month or two. Most accounts can be closed without a death certificate. A few will require it.
 Online subscriptions can be particularly time consuming to cancel. It’s easiest to cancel those via Apple or Android, if you have access to the primary cell phone. Be sure to check newspaper subscriptions, auto club, car insurance, club memberships.
 Go through credit card statements to find all recurring charges. Cancel credit cards when you are done. Review all charges after your loved one’s death date to challenge fraudulent transactions.
 Miscellaneous e-commerce accounts probably need not be canceled once their associated credit card is canceled.
