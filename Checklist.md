@@ -6,6 +6,8 @@ Family members may think they know, but they may not be right. So you need to ca
 ## Will or trust. 
 Anyone with any significant property, such as a house or investments, should have a will or trust. Find a good lawyer to help you. (Fees for a simple estate plan are usually about $5,000, and many lawyers will charge a minimum or fixed fee. Ask for referrals from friends and shop around.) Once you set up the trust, a crucial and common mistake is to fail to move assets into the trust. This needs to be done before death. All major assets -- real property, bank or investment accounts for example, should be transferred into the trust. Cars or personal property are probably not necessary to transfer. For valuable tangible property not in the trust, consider giving it away prior to your loved one’s death. Consider having your loved one sign the title for the car before they die so the chosen recipient can simply transfer the title without having to go through a complicated process. Consider giving away items of sentimental value before death, so your loved one knows they are going to the right person.
 
+Consider getting a joint checking account with your loved one. This can avoid delays in accessing their funds to pay final bills, and let you help with their finances.
+
 ## Obituary. 
 Consider writing it in advance or having your loved one review it or pick out a photo. Ask what your loved one wants to be remembered for. Decide who will write it and where it will appear.
 
@@ -24,7 +26,8 @@ Having your loved one’s main smartphone is very helpful to shut down online ac
 ## Primary email. 
 Make sure you can access your loved one’s primary email account.
 
-## Information. Make sure you know your loved one’s: 
+## Information. 
+Make sure you know your loved one’s: 
 - birthdate and place of birth
 - Social Security Number
 - Veteran Status. For information on veteran death benefits, go here: https://www.usa.gov/veteran-burial-benefits 
@@ -44,7 +47,8 @@ Ask whether your loved one has any unfinished personal business.  Anyone to tell
 ## Notifications. 
 Prepare a list of friends, family and colleagues to notify. Remember religious communities, hobby organizations, and civic organizations.
 
-##Say Goodbye. Tell your loved one what you need to say, earlier rather than later.
+## Say Goodbye. 
+Tell your loved one what you need to say, earlier rather than later.
 
 # After Death: 
 An important objective of this process is to avoid fraud and minimize expenses.
@@ -73,8 +77,8 @@ If your loved one has been receiving Social Security or Medicare benefits, notif
 ## Obituary. 
 Write the obituary and place it with your selected publication. Publications usually charge for them.
 
-## Disposition of estate. I
-f you are the executor of a trust, or simply the one in the family that manages practical or financial affairs, you will need to go through this process. It may involve probate before a court. Overall, it is the process of transferring the decedent’s assets to heirs or other recipients.
+## Disposition of estate. 
+If you are the executor of a trust, or simply the one in the family that manages practical or financial affairs, you will need to go through this process. It may involve probate before a court. Overall, it is the process of transferring the decedent’s assets to heirs or other recipients.
 
 ## Shut down online or other subscriptions. Cancel any recurring payments. You should check credit card statements to be sure you get them all, so this process may take a month or two. Most accounts can be closed without a death certificate. A few will require it.
 Online subscriptions can be particularly time consuming to cancel. It’s easiest to cancel those via Apple or Android, if you have access to the primary cell phone. Be sure to check newspaper subscriptions, auto club, car insurance, club memberships.
