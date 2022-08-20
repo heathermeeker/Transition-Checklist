@@ -6,7 +6,7 @@ Family members may think they know, but they may not be right. So you need to ca
 ## Will or trust. 
 Anyone with any significant property, such as a house or investments, should have a will or trust. Find a good lawyer to help you. (Fees for a simple estate plan are usually about $5,000, and many lawyers will charge a minimum or fixed fee. Ask for referrals from friends and shop around.) Once you set up the trust, a crucial and common mistake is to fail to move assets into the trust. This needs to be done before death. All major assets -- real property, bank or investment accounts for example, should be transferred into the trust. Cars or personal property are probably not necessary to transfer. For valuable tangible property not in the trust, consider giving it away prior to your loved one’s death. Consider having your loved one sign the title for the car before they die so the chosen recipient can simply transfer the title without having to go through a complicated process. Consider giving away items of sentimental value before death, so your loved one knows they are going to the right person.
 
-Consider getting a joint checking account with your loved one. This can avoid delays in accessing their funds to pay final bills, and let you help with their finances.
+Consider getting a joint checking account with your loved one. This can avoid delays in accessing their funds to pay final bills, and it will also let you help with their finances if they become unable to manage their financial affairs. If not, have your loved one designate you as a beneficiary on all bank accounts; your bank should release the funds to you when you provide a death certificate.
 
 ## Obituary. 
 Consider writing it in advance or having your loved one review it or pick out a photo. Ask what your loved one wants to be remembered for. Decide who will write it and where it will appear.
@@ -28,7 +28,7 @@ Make sure you can access your loved one’s primary email account.
 
 ## Information. 
 Make sure you know your loved one’s: 
-- birthdate and place of birth
+- Birthdate and place of birth
 - Social Security Number
 - Veteran Status. For information on veteran death benefits, go here: https://www.usa.gov/veteran-burial-benefits 
 
@@ -36,10 +36,10 @@ Make sure you know your loved one’s:
 Find any documents, paper or electronic, such as will and trust documents, life insurance policies, or business records. Be sure beneficiaries are correct on life insurance. Also locate personal papers, such as letters, birth certificate, marriage certificate, passport, driver’s license or other IDs, armed service discharge papers, which you may want to keep or give to family members. 
 
 ## Medical POA. 
-(AARP is a good source for state-specific forms at https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Even if your loved one already has a POA, a recent one, taking into account your loved one’s immediate medical condition, is helpful to avoid misunderstandings. Detailed instructions are best.
+AARP is a good source for state-specific forms at https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/. Even if your loved one already has a POA, a recent one, taking into account your loved one’s immediate medical condition, is helpful to avoid misunderstandings. Detailed instructions are best.
 
 ## Personal possessions. 
-Ask what your loved one wants done with personal possessions such as furniture, cookery, or clothes.
+Ask what your loved one wants done with personal possessions such as furniture, cookery, or clothes. Find out combinations or passwords for any safes.
 
 ## Unfinished Business. 
 Ask whether your loved one has any unfinished personal business.  Anyone to tell goodbye?  Apologize or express love? Last wishes?
@@ -59,8 +59,8 @@ You will need this information later.
 ## Call the funeral home. 
 They will remove the body and store it for burial or cremation. If you want to sit with your loved one for a while, do that first. They will need you to authorize burial or cremation. That is usually done a few days to a week after death.
 
-## Notify friends and family of the death. T
-ell them your preferences for condolences to the family, flowers, and about charitable donations or memorial services.
+## Notify friends and family of the death. 
+Tell them your preferences for condolences to the family, flowers, and about charitable donations or memorial services.
 
 ## Notify service providers
 ...such as haircutters, gardeners, housekeepers, or health workers, whose services are no longer necessary.
@@ -72,7 +72,7 @@ This may come from a funeral home or a doctor. If you are required to provide on
 They will want a copy of the death certificate.
 
 ## Notify Social Security Administration (SSA). 
-If your loved one has been receiving Social Security or Medicare benefits, notify them of the death to stop the benefits. Your funeral home may do this for you -- they are usually obligated to inform SSA of the death. If so, you can avoid a wait on the phone for SSA (which is sometimes lengthy). If SSA benefits are being automatically deposited into a bank account, they can be removed unilaterally by SSA if they were paid for periods after death.
+If your loved one has been receiving Social Security or Medicare benefits, notify them of the death to stop the benefits. Your funeral home may do this for you -- they are usually obligated to inform SSA of the death. If so, you can avoid a wait on the phone for SSA (which is sometimes lengthy). If SSA benefits are being automatically deposited into a bank account, they can be removed unilaterally by SSA if they were paid for periods after death. Your bank will probably palce a hold on funds for this purpose. 
 
 ## Obituary. 
 Write the obituary and place it with your selected publication. Publications usually charge for them.
@@ -82,7 +82,7 @@ If you are the executor of a trust, or simply the one in the family that manages
 
 ## Shut down online or other subscriptions. 
 Cancel any recurring payments. You should check credit card statements to be sure you get them all, so this process may take a month or two. Most accounts can be closed without a death certificate. A few will require it.
-Online subscriptions can be particularly time consuming to cancel. It’s easiest to cancel those via Apple or Android, if you have access to the primary cell phone. Be sure to check newspaper subscriptions, auto club, car insurance, club memberships.
+Online subscriptions can be particularly time consuming to cancel. It’s easiest to cancel those via Apple or Android, if you have access to the primary cell phone. Be sure to check newspaper subscriptions, auto club, car insurance, club memberships, recurring donations.
 Go through credit card statements to find all recurring charges. Cancel credit cards when you are done. Review all charges after your loved one’s death date to challenge fraudulent transactions.
 Miscellaneous e-commerce accounts probably need not be canceled once their associated credit card is canceled.
 
@@ -96,10 +96,8 @@ Miscellaneous e-commerce accounts probably need not be canceled once their assoc
 ## Dispose of medications.  
 Most drug stores have places to lawfully dispose of controlled substances. Take particular care with narcotics. Dispose of them quickly, as they are often stolen.
 
-## Check for safes or hiding places in the loved one’s living space.
-
 ## If your loved one has social media accounts, make an announcement and close the account.
-Consider whether to annouce the death on that account, which may be easier if your loved one had lots of contacts on the platform. Otherwise you can post an announcement yourself and tag your loved one's account.
+Consider whether to annouce the death on your loved one's account, which may be easier if your loved one had lots of contacts on the platform. Otherwise you can post an announcement yourself and tag your loved one's account.
 
 ## If your loved one owns medical equipment (wheelchair, hospital bed, etc.) consider donating them to charity or giving them to another in need. 
 If the equipment is rented, cancel the contract and return the equipment.
@@ -112,7 +110,7 @@ If necessary, engage a hauler to take away unwanted personal possessions, for do
 Here are some things it may help you to know, if you are present at a deathbed.
 
 ## Hospice. 
-A hospice is a place where a dying person receives palliative care in anticipation of death. However, “hospice” sometimes refers also to a care coordinator that provides “comfort” (basically pain killers) or support for a home death. The decision to engage hospice services is a very important one. Talk to your loved one about initiating the process, and be sure the decision is voluntary and sensible.
+A hospice is a place where a dying person receives palliative care in anticipation of death. However, “hospice” sometimes refers also to a care coordinator that provides “comfort” (basically pain killers) or support for a home death. The decision to engage hospice services is a very important one. Talk to your loved one about initiating the process, and be sure the decision is voluntary and sensible. Once this decision is made, most or all medicines are discontinued.
 
 ## Quick decline. 
 Once a loved one goes on hospice care, or stops taking medical care, their decline can be very quick. Hospice care often involves morphine, which will make communication difficult or impossible. Be sure to say goodbyes before starting this process. A quick decline can be shocking but it is usually a blessing.
@@ -120,7 +118,7 @@ Once a loved one goes on hospice care, or stops taking medical care, their decli
 ## Shutdown. 
 A person nearing death will stop producing much urine or feces. Urine becomes very dark, this is a sign kidneys are shutting down. If death is imminent, your loved one does not need food. Water or fluids (or wetting the lips) may be helpful to avoid suffering.
 The “death rattle” usually signals death within the next 24 hours. Is not as scary as it sounds. It almost sounds like wet snoring, during both inhalation and exhalation. It is caused by mucus building up in the throat as the person’s body loses the strength to swallow and dispose of it. It is not painful.
-It may be confusing and difficult to tell that your loved one has actually died. Lack of breathing is the most obvious sign. Listen at the chest for breath or use a mirror at the mouth. Lack of pulse at the jugular signals death as well, but unless you are accustomed to taking a pulse, you may not be confident that you can find a weak one. Consider trying to take one before death, so you can tell the difference when the time comes. Eventually the body will become cold, but that can take a while depending on the environment. If you have access to medical personnel, they can make a determination.
+It may be confusing and difficult to tell that your loved one has actually died. Lack of breathing is the most obvious sign. Listen at the chest for breath or use a mirror at the mouth. Lack of pulse at the jugular signals death as well, but unless you are accustomed to taking a pulse, you may not be confident that you can find a weak pulse. Consider trying to take one before death, so you can tell the difference when the time comes. Eventually the body will become cold, but that can take a while depending on the environment. If you have access to medical personnel, they can make a determination.
 
 ## Take care of yourself! 
 What you have experienced is a normal part of life, but you may not be prepared for it.
