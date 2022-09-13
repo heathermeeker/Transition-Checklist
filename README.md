@@ -12,3 +12,5 @@ There are plenty of resources online about personal questions to ask a loved one
 I hope this is helpful to people in times of crisis, and I welcome suggestions or corrections.
 
 This checklist is dedicated to my father, Robert Meeker, who loved checklists (a quality I inherited from him), and was generally awesome (a quaility I could only hope in my dreams to match). I used this checklist as a way to channel my energies after his passing.
+
+Big thanks to Cecil Webb, CPA, who had developed his own checklist and gave me some very good ideas to expand this one.
