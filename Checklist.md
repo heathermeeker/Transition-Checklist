@@ -15,7 +15,7 @@ Consider writing it in advance or having your loved one review it or pick out a 
 Ask if your loved one has a preference for a charity to receive memorial donations.
 
 ## Funeral arrangements and disposition of remains. 
-If open-casket, select clothes for your loved one for the funeral. Also make sure there are funds for whatever you plan.
+If open-casket, select clothes for your loved one for the funeral. Also make sure there are funds for whatever you plan. Find out about any pre-paid cemetary plot. Discuss your loved one's preferences for music, eulogies, or other arrangements for funeral or memorial service. Veterans, service members and their dependents can be burdied in a national cemetary.
 
 ## Digital Accounts. 
 Identify all online accounts and passwords, including banking, social media, subscriptions, cryptocurrency wallets, so they can be shut down after death. It is crucial to get control of your loved one’s primary email account so you can shut down activity. Get PIN information for computers, phones, or tablets.
@@ -56,17 +56,29 @@ An important objective of this process is to avoid fraud and minimize expenses.
 ## Note the time and date of death. 
 You will need this information later. 
 
-## Call the funeral home. 
-They will remove the body and store it for burial or cremation. If you want to sit with your loved one for a while, do that first. They will need you to authorize burial or cremation. That is usually done a few days to a week after death.
+## Call the funeral home, or 911. 
+If you have selected a funeral home, they will remove the body and store it for burial or cremation. If you want to sit with your loved one for a while, do that first. They will need you to authorize burial or cremation. That is usually done a few days to a week after death. If you have not selected a funeral home, call 911 for police or paramedic assistance. You may wish to have a friend or relative with you when you talk to a funeral home. 
+
+## Plan funeral or memorial service.
+If you are part of a religious community, they can help. Keep track of all donations, flowers and gifts so you can send thank-you cards. Find a friend to house sit while you are at the funeral. Unfortunately, some criminals use funeral announcements to target empty houses for theft.
+
+## Call a friend or relative.
+You probably don't want to be alone during this time. Pick someone who is responsible and helpful. It can be hard to think clearly when you are in shock or grieving, and having someone to help is good.
+
+## Call your religious leader.
+If you are part of a religious community, contact them about support services or memorial services.
 
 ## Notify friends and family of the death. 
-Tell them your preferences for condolences to the family, flowers, and about charitable donations or memorial services.
+Call your immediate family and ask them to tell others.  Tell them your preferences for condolences to the family, flowers, and about charitable donations or memorial services.
 
-## Notify service providers
+## Notify employer.
+Call your loved one's employer to report the death. Ask about any death benefits from the employer.
+
+## Notify service providers.
 ...such as haircutters, gardeners, housekeepers, or health workers, whose services are no longer necessary.
 
 ## Get the death certificate. 
-This may come from a funeral home or a doctor. If you are required to provide one to prove death, provide a copy; keep the original.
+This may come from a funeral home or a doctor. If you are required to provide one to prove death, provide a copy; keep the original. Get multiple copies.
 
 ## Notify life insurance carriers of the death. 
 They will want a copy of the death certificate.
