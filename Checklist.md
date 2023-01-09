@@ -9,7 +9,7 @@ Anyone with any significant property, such as a house or investments, should hav
 Consider getting a joint checking account with your loved one. This can avoid delays in accessing their funds to pay final bills, and it will also let you help with their finances if they become unable to manage their financial affairs. If not, have your loved one designate you as a beneficiary on all bank accounts; your bank should release the funds to you when you provide a death certificate.
 
 ## Obituary. 
-Consider writing it in advance or having your loved one review it or pick out a photo. Ask what your loved one wants to be remembered for. Decide who will write it and where it will appear.
+Consider writing it in advance or having your loved one review it or pick out a photo. Ask what your loved one wants to be remembered for. Decide who will write it and where it will appear. Obituaries are not usually printed free of charge, so ask your local newspaper about fees.
 
 ## Donations. 
 Ask if your loved one has a preference for a charity to receive memorial donations.
@@ -84,10 +84,10 @@ This may come from a funeral home or a doctor. If you are required to provide on
 They will want a copy of the death certificate.
 
 ## Notify Social Security Administration (SSA). 
-If your loved one has been receiving Social Security or Medicare benefits, notify them of the death to stop the benefits. Your funeral home may do this for you -- they are usually obligated to inform SSA of the death. If so, you can avoid a wait on the phone for SSA (which is sometimes lengthy). If SSA benefits are being automatically deposited into a bank account, they can be removed unilaterally by SSA if they were paid for periods after death. Your bank will probably palce a hold on funds for this purpose. 
+If your loved one has been receiving Social Security or Medicare benefits, notify SSA of the death to stop the benefits. Your funeral home may do this for you -- they are usually obligated to inform SSA of the death. If so, you can avoid a wait on the phone for SSA (which is sometimes lengthy). If SSA benefits are being automatically deposited into a bank account, they can be removed unilaterally by SSA if they were paid for periods after death. Your bank will probably place a hold on funds for this purpose. 
 
 ## Obituary. 
-Write the obituary and place it with your selected publication. Publications usually charge for them.
+Write the obituary and place it with your selected publication. 
 
 ## Disposition of estate. 
 If you are the executor of a trust, or simply the one in the family that manages practical or financial affairs, you will need to go through this process. It may involve probate before a court. Overall, it is the process of transferring the decedent’s assets to heirs or other recipients.
@@ -125,7 +125,7 @@ Here are some things it may help you to know, if you are present at a deathbed.
 A hospice is a place where a dying person receives palliative care in anticipation of death. However, “hospice” sometimes refers also to a care coordinator that provides “comfort” (basically pain killers) or support for a home death. The decision to engage hospice services is a very important one. Talk to your loved one about initiating the process, and be sure the decision is voluntary and sensible. Once this decision is made, most or all medicines are discontinued.
 
 ## Quick decline. 
-Once a loved one goes on hospice care, or stops taking medical care, their decline can be very quick. Hospice care often involves morphine, which will make communication difficult or impossible. Be sure to say goodbyes before starting this process. A quick decline can be shocking but it is usually a blessing.
+Once a loved one goes on hospice care, or stops taking medical care, their decline can be very quick. Hospice care often involves morphine, which can make communication difficult or impossible. Be proactive about ensuring the right dosage, as some hospice workers will tend to over-medicate patients, making them uncommunicative. Be sure to say goodbyes before starting this process. A quick decline can be shocking but it is usually a blessing.
 
 ## Shutdown. 
 A person nearing death will stop producing much urine or feces. Urine becomes very dark, this is a sign kidneys are shutting down. If death is imminent, your loved one does not need food. Water or fluids (or wetting the lips) may be helpful to avoid suffering.
