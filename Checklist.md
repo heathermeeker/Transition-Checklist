@@ -20,7 +20,7 @@ If open-casket, select clothes for your loved one for the funeral. Also make sur
 ## Digital Accounts. 
 Identify all online accounts and passwords, including banking, social media, subscriptions, cryptocurrency wallets, so they can be shut down after death. It is crucial to get control of your loved one’s primary email account so you can shut down activity. Get PIN information for computers, phones, or tablets. 
 
-## Apple Activation Lock
+## Apple Activation Lock.
 Apple products can be particularly difficult to manage after the user dies. Turn off the "Activation Lock" feature before your loved one passes, or make sure you have the access and credential to turn it off afterward, or add a "Legacy Contact" https://support.apple.com/en-us/HT212360. If you don't, Apple will not allow access to the device without an extraordinary amount of process https://support.apple.com/en-us/HT208510, probably more expensive than the product is worth.
 
 ## Smartphone. 
